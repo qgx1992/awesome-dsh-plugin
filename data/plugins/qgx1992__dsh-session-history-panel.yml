@@ -1,0 +1,6 @@
+url: https://github.com/qgx1992/dsh-session-history-panel
+name: qgx1992/dsh-session-history-panel
+category: session
+description:
+  en: Lists the messages you sent in a DSH session, in order, and jumps back to any of them.
+  zh: 在手机上按时间列出你在 DSH 会话里发过的消息，可点按跳回原文。
